@@ -1,0 +1,20 @@
+html,
+body,
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.brand-logo {
+  width: 96px;
+  display: block;
+}
+
+.brand-color-1 {
+  color: #2d3c49;
+}
+
+.brand-color-2 {
+  color: #7d97ad;
+}
