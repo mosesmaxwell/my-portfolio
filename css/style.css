@@ -1,8 +1,8 @@
 html,
 body,
 * {
-  margin: 0px;
-  padding: 0px;
+  margin: 0;
+  padding: 0;
   box-sizing: border-box;
 }
 
@@ -11,10 +11,10 @@ body,
   display: block;
 }
 
-.brand-color-1 {
+.brand-color-title {
   color: #2d3c49;
 }
 
-.brand-color-2 {
+.brand-color-subtitle {
   color: #7d97ad;
 }
